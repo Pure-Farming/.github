@@ -1,11 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-<p>
-  <a href="https://purefarming.com">
-    <img src="/profile/pf_icon_x64.png" alt="Logo" align="middle">
-  </a>
-  <span style="font-size: 24px !important; padding-left: 10px;">Pure Farming</span>
-</p>
+![Pure Farming](/profile/Pure-Farming-logo-black-menu-4.svg)
 
 ### Welcome to Pure Farming
 Powering up innovation through trusted data.  
