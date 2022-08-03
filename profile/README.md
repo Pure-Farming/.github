@@ -1,4 +1,4 @@
-![Pure Farming](Pure-Farming-logo-black-menu-4.svg)
+![Pure Farming](/profile/Pure-Farming-logo-black-menu-4.svg)
 
 ### Welcome to Pure Farming
 Powering up innovation through trusted data.  
